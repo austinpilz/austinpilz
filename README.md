@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Austin. I'm a Java software engineer at @HubSpot working on an event driven framework. I've been coding since I was 11, teaching myself QBasic (lol), PHP, and MySQL from early Google searches. In my spare time I work on historical document preservation, storage, and CDN delivery online.</p>
+<p align="left">I'm Austin. I'm a Java software engineer working on a event driven frameworks. I've been coding since I was 11, teaching myself QBasic (lol), PHP, and MySQL from early Google searches. In my spare time I work on historical document preservation, storage, and CDN delivery online.</p>
 
 ###
 
